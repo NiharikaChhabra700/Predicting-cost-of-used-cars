@@ -1,0 +1,5 @@
+//Nowadays, prices of new cars have been increasing at a high rate which leaves the customers incapable to buy new cars due to lack of funds and hence they prefer used cars. 
+Hence, there is a need for used car price forecasting system in order to determine the actual worth of the car. It is important for both the buyers and the sellers to know
+the car’s actual market value before buying and selling the car. This can be done using different ML models to predict the cost of the used cars accurately and hence help 
+the buyers as well as sellers to know the actual worthiness of the car. In this project, we will try to predict the cost of used cars from the given dataset using different
+ML models. By comparing the accuracy of different ML models, we would try to figure out which model is the best for price prediction of given dataset .  
